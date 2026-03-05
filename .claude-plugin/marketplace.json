@@ -1,0 +1,13 @@
+{
+  "name": "claude-code-skills",
+  "owner": {
+    "name": "Tyler Clemens"
+  },
+  "plugins": [
+    {
+      "name": "svg-diagram",
+      "source": "./svg-diagram",
+      "description": "Generate technical diagrams, architecture visuals, and layered illustrations as SVG files with an HTML export wrapper for PNG download."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "svg-diagram",
+  "version": "1.0.0",
+  "description": "Generate technical diagrams, architecture visuals, and layered illustrations as SVG files with an HTML export wrapper for PNG download.",
+  "author": {
+    "name": "Tyler Clemens"
+  }
+}
